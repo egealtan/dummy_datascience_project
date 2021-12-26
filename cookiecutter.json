@@ -1,0 +1,10 @@
+{
+    "project_name": "dummy datascience project",
+    "repo_name": "{{cookiecutter.project_name.lower().replace(' ', '_')}}",
+    "author_name": "Ege Altan",
+    "description": "A short description of the project.",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
+    "s3_bucket": "",
+    "aws_profile": "default",
+    "python_interpreter": ["python3", "python"]
+  }
